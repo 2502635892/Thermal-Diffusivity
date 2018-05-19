@@ -1,5 +1,5 @@
 %this is a matlab code!
-
+% shou du bo wu guan!
 clear all;
 N = 500;
 EPSILON = 0.05;
