@@ -1,3 +1,5 @@
+%this is a matlab code!
+
 clear all;
 N = 500;
 EPSILON = 0.05;
